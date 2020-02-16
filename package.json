@@ -1,0 +1,31 @@
+{
+  "name": "gcp-meetup-2",
+  "version": "1.0.0",
+  "description": "Node JS example app running for GCP Meetup #2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "GCP",
+    "Google",
+    "Cloud",
+    "Meetup",
+    "Panama",
+    "Nodejs",
+    "Server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canelacho/gcp-meetup-2.git"
+  },
+  "author": "@canelacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canelacho/gcp-meetup-2/issues"
+  },
+  "homepage": "https://github.com/canelacho/gcp-meetup-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
