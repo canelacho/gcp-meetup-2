@@ -20,7 +20,7 @@ To use this docker image: (Assuming you already have "docker" installed)
 Do not forget to stop the container after using it to release its ports, feel free to use this material and enjoy it!
 
 
-#### Event Feb 18 20209
+#### Event Feb 18 2020
 
 Auth: **Hernán Daniel Piña Landinez**
 
