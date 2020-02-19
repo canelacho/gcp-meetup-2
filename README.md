@@ -1,4 +1,4 @@
-![GCP Meetup - Panama photo 2nd meetting!](/public/img/event.png "GCP Meetup Panama")
+![GCP Meetup | Panama photo 2nd meetting!](/public/img/event.png "GCP Meetup Panama")
 ![GCP Meetup - Panama photo 2nd meetting!](/public/img/Google-Cloud-P.png "GCP Meetup Panama")
 
 
