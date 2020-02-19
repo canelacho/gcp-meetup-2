@@ -5,7 +5,9 @@
 # gcp-user-group-panama
 ***
 
-GCP, Docker, NodeJS, Express, Server, Service, Example, 
+GCP, Docker, NodeJS, Express, Server, Service, Example,
+
+There is an image from alpine with a simple server in nodejs exposing an index.html.
 
 To Clone this reposiroty use the command: `git clone https://github.com/canelacho/gcp-meetup-2.git` 
 
